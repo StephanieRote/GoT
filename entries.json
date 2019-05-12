@@ -1,0 +1,2622 @@
+{
+    "entries": [
+        {
+            "fanName": "Andrew Stobie",
+            "id": 1,
+            "answers": {
+                "characters": [
+                    {
+                        "id": 1,
+                        "name": "Jon Snow",
+                        "status": 3
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sansa Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "name": "Arya Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bran Stark",
+                        "status": 3
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cersei Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 6,
+                        "name": "Jaime Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 7,
+                        "name": "Tyrion Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 8,
+                        "name": "Daenerys Targaryen",
+                        "status": 1
+                    },
+                    {
+                        "id": 9,
+                        "name": "Yara Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 10,
+                        "name": "Theon Greyjoy",
+                        "status": 1
+                    },
+                    {
+                        "id": 11,
+                        "name": "Melisandre",
+                        "status": 2
+                    },
+                    {
+                        "id": 12,
+                        "name": "Jorah Mormont",
+                        "status": 2
+                    },
+                    {
+                        "id": 13,
+                        "name": "The Hound",
+                        "status": 2
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Mountain",
+                        "status": 2
+                    },
+                    {
+                        "id": 15,
+                        "name": "Samwell Tarley",
+                        "status": 1
+                    },
+                    {
+                        "id": 16,
+                        "name": "Gilly",
+                        "status": 1
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sam (Child)",
+                        "status": 1
+                    },
+                    {
+                        "id": 18,
+                        "name": "Lord Varys",
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "name": "Brienne of Tarth",
+                        "status": 2
+                    },
+                    {
+                        "id": 20,
+                        "name": "Davos Seaworth",
+                        "status": 1
+                    },
+                    {
+                        "id": 21,
+                        "name": "Bronn",
+                        "status": 1
+                    },
+                    {
+                        "id": 22,
+                        "name": "Podrick Payne",
+                        "status": 2
+                    },
+                    {
+                        "id": 23,
+                        "name": "Tormund Giantsbane",
+                        "status": 2
+                    },
+                    {
+                        "id": 24,
+                        "name": "Qyburn",
+                        "status": 2
+                    },
+                    {
+                        "id": 25,
+                        "name": "Grey Worm",
+                        "status": 2
+                    },
+                    {
+                        "id": 26,
+                        "name": "Gendry",
+                        "status": 1
+                    },
+                    {
+                        "id": 27,
+                        "name": "Beric Dondarrion",
+                        "status": 2
+                    },
+                    {
+                        "id": 28,
+                        "name": "Euron Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 29,
+                        "name": "Daario",
+                        "status": 2
+                    },
+                    {
+                        "id": 30,
+                        "name": "Dolorous Edd",
+                        "status": 1
+                    },
+                    {
+                        "id": 31,
+                        "name": "Missandei",
+                        "status": 1
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ghost",
+                        "status": 2
+                    },
+                    {
+                        "id": 33,
+                        "name": "Nymeria",
+                        "status": 1
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "answer": false,
+                        "id": 1
+                    },
+                    {
+                        "answer": 4,
+                        "id": 2
+                    },
+                    {
+                        "answer": 8,
+                        "id": 3
+                    }
+                ]
+            }
+        },
+        {
+            "fanName": "Sean Comerford 1",
+            "id": 2,
+            "answers": {
+                "characters": [
+                    {
+                        "id": 1,
+                        "name": "Jon Snow",
+                        "status": 3
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sansa Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "name": "Arya Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bran Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cersei Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 6,
+                        "name": "Jaime Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 7,
+                        "name": "Tyrion Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 8,
+                        "name": "Daenerys Targaryen",
+                        "status": 1
+                    },
+                    {
+                        "id": 9,
+                        "name": "Yara Greyjoy",
+                        "status": 1
+                    },
+                    {
+                        "id": 10,
+                        "name": "Theon Greyjoy",
+                        "status": 1
+                    },
+                    {
+                        "id": 11,
+                        "name": "Melisandre",
+                        "status": 3
+                    },
+                    {
+                        "id": 12,
+                        "name": "Jorah Mormont",
+                        "status": 3
+                    },
+                    {
+                        "id": 13,
+                        "name": "The Hound",
+                        "status": 2
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Mountain",
+                        "status": 2
+                    },
+                    {
+                        "id": 15,
+                        "name": "Samwell Tarley",
+                        "status": 1
+                    },
+                    {
+                        "id": 16,
+                        "name": "Gilly",
+                        "status": 1
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sam (Child)",
+                        "status": 1
+                    },
+                    {
+                        "id": 18,
+                        "name": "Lord Varys",
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "name": "Brienne of Tarth",
+                        "status": 3
+                    },
+                    {
+                        "id": 20,
+                        "name": "Davos Seaworth",
+                        "status": 2
+                    },
+                    {
+                        "id": 21,
+                        "name": "Bronn",
+                        "status": 2
+                    },
+                    {
+                        "id": 22,
+                        "name": "Podrick Payne",
+                        "status": 1
+                    },
+                    {
+                        "id": 23,
+                        "name": "Tormund Giantsbane",
+                        "status": 3
+                    },
+                    {
+                        "id": 24,
+                        "name": "Qyburn",
+                        "status": 2
+                    },
+                    {
+                        "id": 25,
+                        "name": "Grey Worm",
+                        "status": 2
+                    },
+                    {
+                        "id": 26,
+                        "name": "Gendry",
+                        "status": 1
+                    },
+                    {
+                        "id": 27,
+                        "name": "Beric Dondarrion",
+                        "status": 2
+                    },
+                    {
+                        "id": 28,
+                        "name": "Euron Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 29,
+                        "name": "Daario",
+                        "status": 3
+                    },
+                    {
+                        "id": 30,
+                        "name": "Dolorous Edd",
+                        "status": 3
+                    },
+                    {
+                        "id": 31,
+                        "name": "Missandei",
+                        "status": 1
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ghost",
+                        "status": 1
+                    },
+                    {
+                        "id": 33,
+                        "name": "Nymeria",
+                        "status": 1
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "answer": false,
+                        "id": 1
+                    },
+                    {
+                        "answer": 7,
+                        "id": 2
+                    },
+                    {
+                        "answer": 2,
+                        "id": 3
+                    }
+                ]
+            }
+        },
+        {
+            "fanName": "Sean Comerford 2",
+            "id": 3,
+            "answers": {
+                "characters": [
+                    {
+                        "id": 1,
+                        "name": "Jon Snow",
+                        "status": 2
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sansa Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "name": "Arya Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bran Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cersei Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 6,
+                        "name": "Jaime Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 7,
+                        "name": "Tyrion Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 8,
+                        "name": "Daenerys Targaryen",
+                        "status": 1
+                    },
+                    {
+                        "id": 9,
+                        "name": "Yara Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 10,
+                        "name": "Theon Greyjoy",
+                        "status": 1
+                    },
+                    {
+                        "id": 11,
+                        "name": "Melisandre",
+                        "status": 2
+                    },
+                    {
+                        "id": 12,
+                        "name": "Jorah Mormont",
+                        "status": 2
+                    },
+                    {
+                        "id": 13,
+                        "name": "The Hound",
+                        "status": 2
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Mountain",
+                        "status": 2
+                    },
+                    {
+                        "id": 15,
+                        "name": "Samwell Tarley",
+                        "status": 1
+                    },
+                    {
+                        "id": 16,
+                        "name": "Gilly",
+                        "status": 1
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sam (Child)",
+                        "status": 1
+                    },
+                    {
+                        "id": 18,
+                        "name": "Lord Varys",
+                        "status": 2
+                    },
+                    {
+                        "id": 19,
+                        "name": "Brienne of Tarth",
+                        "status": 1
+                    },
+                    {
+                        "id": 20,
+                        "name": "Davos Seaworth",
+                        "status": 1
+                    },
+                    {
+                        "id": 21,
+                        "name": "Bronn",
+                        "status": 1
+                    },
+                    {
+                        "id": 22,
+                        "name": "Podrick Payne",
+                        "status": 1
+                    },
+                    {
+                        "id": 23,
+                        "name": "Tormund Giantsbane",
+                        "status": 1
+                    },
+                    {
+                        "id": 24,
+                        "name": "Qyburn",
+                        "status": 3
+                    },
+                    {
+                        "id": 25,
+                        "name": "Grey Worm",
+                        "status": 3
+                    },
+                    {
+                        "id": 26,
+                        "name": "Gendry",
+                        "status": 1
+                    },
+                    {
+                        "id": 27,
+                        "name": "Beric Dondarrion",
+                        "status": 3
+                    },
+                    {
+                        "id": 28,
+                        "name": "Euron Greyjoy",
+                        "status": 3
+                    },
+                    {
+                        "id": 29,
+                        "name": "Daario",
+                        "status": 1
+                    },
+                    {
+                        "id": 30,
+                        "name": "Dolorous Edd",
+                        "status": 1
+                    },
+                    {
+                        "id": 31,
+                        "name": "Missandei",
+                        "status": 1
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ghost",
+                        "status": 3
+                    },
+                    {
+                        "id": 33,
+                        "name": "Nymeria",
+                        "status": 1
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "answer": true,
+                        "id": 1
+                    },
+                    {
+                        "answer": 0,
+                        "id": 2
+                    },
+                    {
+                        "answer": 8,
+                        "id": 3
+                    }
+                ]
+            }
+        },
+        {
+            "fanName": "Allison",
+            "id": 4,
+            "answers": {
+                "characters": [
+                    {
+                        "id": 1,
+                        "name": "Jon Snow",
+                        "status": 2
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sansa Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "name": "Arya Stark",
+                        "status": 3
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bran Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cersei Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 6,
+                        "name": "Jaime Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 7,
+                        "name": "Tyrion Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 8,
+                        "name": "Daenerys Targaryen",
+                        "status": 2
+                    },
+                    {
+                        "id": 9,
+                        "name": "Yara Greyjoy",
+                        "status": 1
+                    },
+                    {
+                        "id": 10,
+                        "name": "Theon Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 11,
+                        "name": "Melisandre",
+                        "status": 2
+                    },
+                    {
+                        "id": 12,
+                        "name": "Jorah Mormont",
+                        "status": 2
+                    },
+                    {
+                        "id": 13,
+                        "name": "The Hound",
+                        "status": 2
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Mountain",
+                        "status": 3
+                    },
+                    {
+                        "id": 15,
+                        "name": "Samwell Tarley",
+                        "status": 1
+                    },
+                    {
+                        "id": 16,
+                        "name": "Gilly",
+                        "status": 2
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sam (Child)",
+                        "status": 3
+                    },
+                    {
+                        "id": 18,
+                        "name": "Lord Varys",
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "name": "Brienne of Tarth",
+                        "status": 2
+                    },
+                    {
+                        "id": 20,
+                        "name": "Davos Seaworth",
+                        "status": 2
+                    },
+                    {
+                        "id": 21,
+                        "name": "Bronn",
+                        "status": 1
+                    },
+                    {
+                        "id": 22,
+                        "name": "Podrick Payne",
+                        "status": 1
+                    },
+                    {
+                        "id": 23,
+                        "name": "Tormund Giantsbane",
+                        "status": 2
+                    },
+                    {
+                        "id": 24,
+                        "name": "Qyburn",
+                        "status": 2
+                    },
+                    {
+                        "id": 25,
+                        "name": "Grey Worm",
+                        "status": 2
+                    },
+                    {
+                        "id": 26,
+                        "name": "Gendry",
+                        "status": 1
+                    },
+                    {
+                        "id": 27,
+                        "name": "Beric Dondarrion",
+                        "status": 3
+                    },
+                    {
+                        "id": 28,
+                        "name": "Euron Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 29,
+                        "name": "Daario",
+                        "status": 2
+                    },
+                    {
+                        "id": 30,
+                        "name": "Dolorous Edd",
+                        "status": 3
+                    },
+                    {
+                        "id": 31,
+                        "name": "Missandei",
+                        "status": 1
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ghost",
+                        "status": 3
+                    },
+                    {
+                        "id": 33,
+                        "name": "Nymeria",
+                        "status": 1
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "answer": true,
+                        "id": 1
+                    },
+                    {
+                        "answer": 15,
+                        "id": 2
+                    },
+                    {
+                        "answer": 2,
+                        "id": 3
+                    }
+                ]
+            }
+        },
+        {
+            "fanName": "David",
+            "id": 5,
+            "answers": {
+                "characters": [
+                    {
+                        "id": 1,
+                        "name": "Jon Snow",
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sansa Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "name": "Arya Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bran Stark",
+                        "status": 3
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cersei Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "name": "Jaime Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 7,
+                        "name": "Tyrion Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 8,
+                        "name": "Daenerys Targaryen",
+                        "status": 1
+                    },
+                    {
+                        "id": 9,
+                        "name": "Yara Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 10,
+                        "name": "Theon Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 11,
+                        "name": "Melisandre",
+                        "status": 2
+                    },
+                    {
+                        "id": 12,
+                        "name": "Jorah Mormont",
+                        "status": 3
+                    },
+                    {
+                        "id": 13,
+                        "name": "The Hound",
+                        "status": 3
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Mountain",
+                        "status": 3
+                    },
+                    {
+                        "id": 15,
+                        "name": "Samwell Tarley",
+                        "status": 1
+                    },
+                    {
+                        "id": 16,
+                        "name": "Gilly",
+                        "status": 1
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sam (Child)",
+                        "status": 2
+                    },
+                    {
+                        "id": 18,
+                        "name": "Lord Varys",
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "name": "Brienne of Tarth",
+                        "status": 2
+                    },
+                    {
+                        "id": 20,
+                        "name": "Davos Seaworth",
+                        "status": 2
+                    },
+                    {
+                        "id": 21,
+                        "name": "Bronn",
+                        "status": 1
+                    },
+                    {
+                        "id": 22,
+                        "name": "Podrick Payne",
+                        "status": 1
+                    },
+                    {
+                        "id": 23,
+                        "name": "Tormund Giantsbane",
+                        "status": 3
+                    },
+                    {
+                        "id": 24,
+                        "name": "Qyburn",
+                        "status": 2
+                    },
+                    {
+                        "id": 25,
+                        "name": "Grey Worm",
+                        "status": 2
+                    },
+                    {
+                        "id": 26,
+                        "name": "Gendry",
+                        "status": 1
+                    },
+                    {
+                        "id": 27,
+                        "name": "Beric Dondarrion",
+                        "status": 2
+                    },
+                    {
+                        "id": 28,
+                        "name": "Euron Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 29,
+                        "name": "Daario",
+                        "status": 3
+                    },
+                    {
+                        "id": 30,
+                        "name": "Dolorous Edd",
+                        "status": 3
+                    },
+                    {
+                        "id": 31,
+                        "name": "Missandei",
+                        "status": 1
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ghost",
+                        "status": 3
+                    },
+                    {
+                        "id": 33,
+                        "name": "Nymeria",
+                        "status": 1
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "answer": true,
+                        "id": 1
+                    },
+                    {
+                        "answer": 4,
+                        "id": 2
+                    },
+                    {
+                        "answer": "Night King",
+                        "id": 3
+                    }
+                ]
+            }
+        },
+        {
+            "fanName": "Kinney",
+            "id": 6,
+            "answers": {
+                "characters": [
+                    {
+                        "id": 1,
+                        "name": "Jon Snow",
+                        "status": 2
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sansa Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "name": "Arya Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bran Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cersei Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 6,
+                        "name": "Jaime Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 7,
+                        "name": "Tyrion Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 8,
+                        "name": "Daenerys Targaryen",
+                        "status": 2
+                    },
+                    {
+                        "id": 9,
+                        "name": "Yara Greyjoy",
+                        "status": 1
+                    },
+                    {
+                        "id": 10,
+                        "name": "Theon Greyjoy",
+                        "status": 1
+                    },
+                    {
+                        "id": 11,
+                        "name": "Melisandre",
+                        "status": 2
+                    },
+                    {
+                        "id": 12,
+                        "name": "Jorah Mormont",
+                        "status": 2
+                    },
+                    {
+                        "id": 13,
+                        "name": "The Hound",
+                        "status": 1
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Mountain",
+                        "status": 2
+                    },
+                    {
+                        "id": 15,
+                        "name": "Samwell Tarley",
+                        "status": 1
+                    },
+                    {
+                        "id": 16,
+                        "name": "Gilly",
+                        "status": 1
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sam (Child)",
+                        "status": 1
+                    },
+                    {
+                        "id": 18,
+                        "name": "Lord Varys",
+                        "status": 2
+                    },
+                    {
+                        "id": 19,
+                        "name": "Brienne of Tarth",
+                        "status": 2
+                    },
+                    {
+                        "id": 20,
+                        "name": "Davos Seaworth",
+                        "status": 1
+                    },
+                    {
+                        "id": 21,
+                        "name": "Bronn",
+                        "status": 1
+                    },
+                    {
+                        "id": 22,
+                        "name": "Podrick Payne",
+                        "status": 1
+                    },
+                    {
+                        "id": 23,
+                        "name": "Tormund Giantsbane",
+                        "status": 2
+                    },
+                    {
+                        "id": 24,
+                        "name": "Qyburn",
+                        "status": 2
+                    },
+                    {
+                        "id": 25,
+                        "name": "Grey Worm",
+                        "status": 2
+                    },
+                    {
+                        "id": 26,
+                        "name": "Gendry",
+                        "status": 2
+                    },
+                    {
+                        "id": 27,
+                        "name": "Beric Dondarrion",
+                        "status": 2
+                    },
+                    {
+                        "id": 28,
+                        "name": "Euron Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 29,
+                        "name": "Daario",
+                        "status": 1
+                    },
+                    {
+                        "id": 30,
+                        "name": "Dolorous Edd",
+                        "status": 2
+                    },
+                    {
+                        "id": 31,
+                        "name": "Missandei",
+                        "status": 1
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ghost",
+                        "status": 2
+                    },
+                    {
+                        "id": 33,
+                        "name": "Nymeria",
+                        "status": 1
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "answer": true,
+                        "id": 1
+                    },
+                    {
+                        "answer": 1,
+                        "id": 2
+                    },
+                    {
+                        "answer": "John & Daenerys Baby",
+                        "id": 3
+                    }
+                ]
+            }
+        },
+        {
+            "fanName": "Andre",
+            "id": 7,
+            "answers": {
+                "characters": [
+                    {
+                        "id": 1,
+                        "name": "Jon Snow",
+                        "status": 2
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sansa Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "name": "Arya Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bran Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cersei Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 6,
+                        "name": "Jaime Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 7,
+                        "name": "Tyrion Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 8,
+                        "name": "Daenerys Targaryen",
+                        "status": 1
+                    },
+                    {
+                        "id": 9,
+                        "name": "Yara Greyjoy",
+                        "status": 3
+                    },
+                    {
+                        "id": 10,
+                        "name": "Theon Greyjoy",
+                        "status": 1
+                    },
+                    {
+                        "id": 11,
+                        "name": "Melisandre",
+                        "status": 1
+                    },
+                    {
+                        "id": 12,
+                        "name": "Jorah Mormont",
+                        "status": 2
+                    },
+                    {
+                        "id": 13,
+                        "name": "The Hound",
+                        "status": 2
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Mountain",
+                        "status": 2
+                    },
+                    {
+                        "id": 15,
+                        "name": "Samwell Tarley",
+                        "status": 1
+                    },
+                    {
+                        "id": 16,
+                        "name": "Gilly",
+                        "status": 2
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sam (Child)",
+                        "status": 1
+                    },
+                    {
+                        "id": 18,
+                        "name": "Lord Varys",
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "name": "Brienne of Tarth",
+                        "status": 1
+                    },
+                    {
+                        "id": 20,
+                        "name": "Davos Seaworth",
+                        "status": 1
+                    },
+                    {
+                        "id": 21,
+                        "name": "Bronn",
+                        "status": 2
+                    },
+                    {
+                        "id": 22,
+                        "name": "Podrick Payne",
+                        "status": 1
+                    },
+                    {
+                        "id": 23,
+                        "name": "Tormund Giantsbane",
+                        "status": 2
+                    },
+                    {
+                        "id": 24,
+                        "name": "Qyburn",
+                        "status": 2
+                    },
+                    {
+                        "id": 25,
+                        "name": "Grey Worm",
+                        "status": 2
+                    },
+                    {
+                        "id": 26,
+                        "name": "Gendry",
+                        "status": 1
+                    },
+                    {
+                        "id": 27,
+                        "name": "Beric Dondarrion",
+                        "status": 1
+                    },
+                    {
+                        "id": 28,
+                        "name": "Euron Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 29,
+                        "name": "Daario",
+                        "status": 2
+                    },
+                    {
+                        "id": 30,
+                        "name": "Dolorous Edd",
+                        "status": 2
+                    },
+                    {
+                        "id": 31,
+                        "name": "Missandei",
+                        "status": 1
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ghost",
+                        "status": 1
+                    },
+                    {
+                        "id": 33,
+                        "name": "Nymeria",
+                        "status": 1
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "answer": true,
+                        "id": 1
+                    },
+                    {
+                        "answer": 4,
+                        "id": 2
+                    },
+                    {
+                        "answer": 8,
+                        "id": 3
+                    }
+                ]
+            }
+        },
+        {
+            "fanName": "Megan",
+            "id": 8,
+            "answers": {
+                "characters": [
+                    {
+                        "id": 1,
+                        "name": "Jon Snow",
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sansa Stark",
+                        "status": 2
+                    },
+                    {
+                        "id": 3,
+                        "name": "Arya Stark",
+                        "status": 3
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bran Stark",
+                        "status": 2
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cersei Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "name": "Jaime Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 7,
+                        "name": "Tyrion Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 8,
+                        "name": "Daenerys Targaryen",
+                        "status": 2
+                    },
+                    {
+                        "id": 9,
+                        "name": "Yara Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 10,
+                        "name": "Theon Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 11,
+                        "name": "Melisandre",
+                        "status": 2
+                    },
+                    {
+                        "id": 12,
+                        "name": "Jorah Mormont",
+                        "status": 2
+                    },
+                    {
+                        "id": 13,
+                        "name": "The Hound",
+                        "status": 3
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Mountain",
+                        "status": 2
+                    },
+                    {
+                        "id": 15,
+                        "name": "Samwell Tarley",
+                        "status": 1
+                    },
+                    {
+                        "id": 16,
+                        "name": "Gilly",
+                        "status": 2
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sam (Child)",
+                        "status": 1
+                    },
+                    {
+                        "id": 18,
+                        "name": "Lord Varys",
+                        "status": 2
+                    },
+                    {
+                        "id": 19,
+                        "name": "Brienne of Tarth",
+                        "status": 3
+                    },
+                    {
+                        "id": 20,
+                        "name": "Davos Seaworth",
+                        "status": 3
+                    },
+                    {
+                        "id": 21,
+                        "name": "Bronn",
+                        "status": 2
+                    },
+                    {
+                        "id": 22,
+                        "name": "Podrick Payne",
+                        "status": 1
+                    },
+                    {
+                        "id": 23,
+                        "name": "Tormund Giantsbane",
+                        "status": 2
+                    },
+                    {
+                        "id": 24,
+                        "name": "Qyburn",
+                        "status": 2
+                    },
+                    {
+                        "id": 25,
+                        "name": "Grey Worm",
+                        "status": 2
+                    },
+                    {
+                        "id": 26,
+                        "name": "Gendry",
+                        "status": 1
+                    },
+                    {
+                        "id": 27,
+                        "name": "Beric Dondarrion",
+                        "status": 2
+                    },
+                    {
+                        "id": 28,
+                        "name": "Euron Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 29,
+                        "name": "Daario",
+                        "status": 2
+                    },
+                    {
+                        "id": 30,
+                        "name": "Dolorous Edd",
+                        "status": 2
+                    },
+                    {
+                        "id": 31,
+                        "name": "Missandei",
+                        "status": 1
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ghost",
+                        "status": 3
+                    },
+                    {
+                        "id": 33,
+                        "name": "Nymeria",
+                        "status": 1
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "answer": true,
+                        "id": 1
+                    },
+                    {
+                        "answer": 4,
+                        "id": 2
+                    },
+                    {
+                        "answer": 7,
+                        "id": 3
+                    }
+                ]
+            }
+        },
+        {
+            "fanName": "Tope",
+            "id": 9,
+            "answers": {
+                "characters": [
+                    {
+                        "id": 1,
+                        "name": "Jon Snow",
+                        "status": 3
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sansa Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "name": "Arya Stark",
+                        "status": 2
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bran Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cersei Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 6,
+                        "name": "Jaime Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 7,
+                        "name": "Tyrion Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 8,
+                        "name": "Daenerys Targaryen",
+                        "status": 1
+                    },
+                    {
+                        "id": 9,
+                        "name": "Yara Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 10,
+                        "name": "Theon Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 11,
+                        "name": "Melisandre",
+                        "status": 2
+                    },
+                    {
+                        "id": 12,
+                        "name": "Jorah Mormont",
+                        "status": 2
+                    },
+                    {
+                        "id": 13,
+                        "name": "The Hound",
+                        "status": 2
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Mountain",
+                        "status": 2
+                    },
+                    {
+                        "id": 15,
+                        "name": "Samwell Tarley",
+                        "status": 1
+                    },
+                    {
+                        "id": 16,
+                        "name": "Gilly",
+                        "status": 1
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sam (Child)",
+                        "status": 2
+                    },
+                    {
+                        "id": 18,
+                        "name": "Lord Varys",
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "name": "Brienne of Tarth",
+                        "status": 2
+                    },
+                    {
+                        "id": 20,
+                        "name": "Davos Seaworth",
+                        "status": 2
+                    },
+                    {
+                        "id": 21,
+                        "name": "Bronn",
+                        "status": 1
+                    },
+                    {
+                        "id": 22,
+                        "name": "Podrick Payne",
+                        "status": 2
+                    },
+                    {
+                        "id": 23,
+                        "name": "Tormund Giantsbane",
+                        "status": 1
+                    },
+                    {
+                        "id": 24,
+                        "name": "Qyburn",
+                        "status": 1
+                    },
+                    {
+                        "id": 25,
+                        "name": "Grey Worm",
+                        "status": 1
+                    },
+                    {
+                        "id": 26,
+                        "name": "Gendry",
+                        "status": 2
+                    },
+                    {
+                        "id": 27,
+                        "name": "Beric Dondarrion",
+                        "status": 2
+                    },
+                    {
+                        "id": 28,
+                        "name": "Euron Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 29,
+                        "name": "Daario",
+                        "status": 2
+                    },
+                    {
+                        "id": 30,
+                        "name": "Dolorous Edd",
+                        "status": 2
+                    },
+                    {
+                        "id": 31,
+                        "name": "Missandei",
+                        "status": 2
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ghost",
+                        "status": 3
+                    },
+                    {
+                        "id": 33,
+                        "name": "Nymeria",
+                        "status": 2
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "answer": true,
+                        "id": 1
+                    },
+                    {
+                        "answer": 1,
+                        "id": 2
+                    },
+                    {
+                        "answer": 8,
+                        "id": 3
+                    }
+                ]
+            }
+        },
+        {
+            "fanName": "Bohm",
+            "id": 10,
+            "answers": {
+                "characters": [
+                    {
+                        "id": 1,
+                        "name": "Jon Snow",
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sansa Stark",
+                        "status": 2
+                    },
+                    {
+                        "id": 3,
+                        "name": "Arya Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bran Stark",
+                        "status": 2
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cersei Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "name": "Jaime Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 7,
+                        "name": "Tyrion Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 8,
+                        "name": "Daenerys Targaryen",
+                        "status": 1
+                    },
+                    {
+                        "id": 9,
+                        "name": "Yara Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 10,
+                        "name": "Theon Greyjoy",
+                        "status": 1
+                    },
+                    {
+                        "id": 11,
+                        "name": "Melisandre",
+                        "status": 1
+                    },
+                    {
+                        "id": 12,
+                        "name": "Jorah Mormont",
+                        "status": 2
+                    },
+                    {
+                        "id": 13,
+                        "name": "The Hound",
+                        "status": 3
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Mountain",
+                        "status": 2
+                    },
+                    {
+                        "id": 15,
+                        "name": "Samwell Tarley",
+                        "status": 1
+                    },
+                    {
+                        "id": 16,
+                        "name": "Gilly",
+                        "status": 1
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sam (Child)",
+                        "status": 1
+                    },
+                    {
+                        "id": 18,
+                        "name": "Lord Varys",
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "name": "Brienne of Tarth",
+                        "status": 2
+                    },
+                    {
+                        "id": 20,
+                        "name": "Davos Seaworth",
+                        "status": 3
+                    },
+                    {
+                        "id": 21,
+                        "name": "Bronn",
+                        "status": 2
+                    },
+                    {
+                        "id": 22,
+                        "name": "Podrick Payne",
+                        "status": 2
+                    },
+                    {
+                        "id": 23,
+                        "name": "Tormund Giantsbane",
+                        "status": 2
+                    },
+                    {
+                        "id": 24,
+                        "name": "Qyburn",
+                        "status": 1
+                    },
+                    {
+                        "id": 25,
+                        "name": "Grey Worm",
+                        "status": 2
+                    },
+                    {
+                        "id": 26,
+                        "name": "Gendry",
+                        "status": 1
+                    },
+                    {
+                        "id": 27,
+                        "name": "Beric Dondarrion",
+                        "status": 2
+                    },
+                    {
+                        "id": 28,
+                        "name": "Euron Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 29,
+                        "name": "Daario",
+                        "status": 1
+                    },
+                    {
+                        "id": 30,
+                        "name": "Dolorous Edd",
+                        "status": 3
+                    },
+                    {
+                        "id": 31,
+                        "name": "Missandei",
+                        "status": 1
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ghost",
+                        "status": 1
+                    },
+                    {
+                        "id": 33,
+                        "name": "Nymeria",
+                        "status": 1
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "answer": false,
+                        "id": 1
+                    },
+                    {
+                        "answer": 1,
+                        "id": 2
+                    },
+                    {
+                        "answer": 0,
+                        "id": 3
+                    }
+                ]
+            }
+        },
+        {
+            "fanName": "Steph",
+            "id": 11,
+            "answers": {
+                "characters": [
+                    {
+                        "id": 1,
+                        "name": "Jon Snow",
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sansa Stark",
+                        "status": 2
+                    },
+                    {
+                        "id": 3,
+                        "name": "Arya Stark",
+                        "status": 3
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bran Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cersei Lannister",
+                        "status": 3
+                    },
+                    {
+                        "id": 6,
+                        "name": "Jaime Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 7,
+                        "name": "Tyrion Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 8,
+                        "name": "Daenerys Targaryen",
+                        "status": 3
+                    },
+                    {
+                        "id": 9,
+                        "name": "Yara Greyjoy",
+                        "status": 3
+                    },
+                    {
+                        "id": 10,
+                        "name": "Theon Greyjoy",
+                        "status": 1
+                    },
+                    {
+                        "id": 11,
+                        "name": "Melisandre",
+                        "status": 2
+                    },
+                    {
+                        "id": 12,
+                        "name": "Jorah Mormont",
+                        "status": 2
+                    },
+                    {
+                        "id": 13,
+                        "name": "The Hound",
+                        "status": 1
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Mountain",
+                        "status": 2
+                    },
+                    {
+                        "id": 15,
+                        "name": "Samwell Tarley",
+                        "status": 1
+                    },
+                    {
+                        "id": 16,
+                        "name": "Gilly",
+                        "status": 2
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sam (Child)",
+                        "status": 1
+                    },
+                    {
+                        "id": 18,
+                        "name": "Lord Varys",
+                        "status": 2
+                    },
+                    {
+                        "id": 19,
+                        "name": "Brienne of Tarth",
+                        "status": 1
+                    },
+                    {
+                        "id": 20,
+                        "name": "Davos Seaworth",
+                        "status": 3
+                    },
+                    {
+                        "id": 21,
+                        "name": "Bronn",
+                        "status": 2
+                    },
+                    {
+                        "id": 22,
+                        "name": "Podrick Payne",
+                        "status": 2
+                    },
+                    {
+                        "id": 23,
+                        "name": "Tormund Giantsbane",
+                        "status": 3
+                    },
+                    {
+                        "id": 24,
+                        "name": "Qyburn",
+                        "status": 2
+                    },
+                    {
+                        "id": 25,
+                        "name": "Grey Worm",
+                        "status": 3
+                    },
+                    {
+                        "id": 26,
+                        "name": "Gendry",
+                        "status": 1
+                    },
+                    {
+                        "id": 27,
+                        "name": "Beric Dondarrion",
+                        "status": 3
+                    },
+                    {
+                        "id": 28,
+                        "name": "Euron Greyjoy",
+                        "status": 3
+                    },
+                    {
+                        "id": 29,
+                        "name": "Daario",
+                        "status": 1
+                    },
+                    {
+                        "id": 30,
+                        "name": "Dolorous Edd",
+                        "status": 3
+                    },
+                    {
+                        "id": 31,
+                        "name": "Missandei",
+                        "status": 1
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ghost",
+                        "status": 3
+                    },
+                    {
+                        "id": 33,
+                        "name": "Nymeria",
+                        "status": 1
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "answer": true,
+                        "id": 1
+                    },
+                    {
+                        "answer": 19,
+                        "id": 2
+                    },
+                    {
+                        "answer": 8,
+                        "id": 3
+                    }
+                ]
+            }
+        },
+        {
+            "fanName": "Reilly",
+            "id": 12,
+            "answers": {
+                "characters": [
+                    {
+                        "id": 1,
+                        "name": "Jon Snow",
+                        "status": 2
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sansa Stark",
+                        "status": 2
+                    },
+                    {
+                        "id": 3,
+                        "name": "Arya Stark",
+                        "status": 2
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bran Stark",
+                        "status": 2
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cersei Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 6,
+                        "name": "Jaime Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 7,
+                        "name": "Tyrion Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 8,
+                        "name": "Daenerys Targaryen",
+                        "status": 2
+                    },
+                    {
+                        "id": 9,
+                        "name": "Yara Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 10,
+                        "name": "Theon Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 11,
+                        "name": "Melisandre",
+                        "status": 2
+                    },
+                    {
+                        "id": 12,
+                        "name": "Jorah Mormont",
+                        "status": 2
+                    },
+                    {
+                        "id": 13,
+                        "name": "The Hound",
+                        "status": 2
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Mountain",
+                        "status": 2
+                    },
+                    {
+                        "id": 15,
+                        "name": "Samwell Tarley",
+                        "status": 2
+                    },
+                    {
+                        "id": 16,
+                        "name": "Gilly",
+                        "status": 2
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sam (Child)",
+                        "status": 2
+                    },
+                    {
+                        "id": 18,
+                        "name": "Lord Varys",
+                        "status": 2
+                    },
+                    {
+                        "id": 19,
+                        "name": "Brienne of Tarth",
+                        "status": 2
+                    },
+                    {
+                        "id": 20,
+                        "name": "Davos Seaworth",
+                        "status": 2
+                    },
+                    {
+                        "id": 21,
+                        "name": "Bronn",
+                        "status": 2
+                    },
+                    {
+                        "id": 22,
+                        "name": "Podrick Payne",
+                        "status": 2
+                    },
+                    {
+                        "id": 23,
+                        "name": "Tormund Giantsbane",
+                        "status": 2
+                    },
+                    {
+                        "id": 24,
+                        "name": "Qyburn",
+                        "status": 2
+                    },
+                    {
+                        "id": 25,
+                        "name": "Grey Worm",
+                        "status": 2
+                    },
+                    {
+                        "id": 26,
+                        "name": "Gendry",
+                        "status": 2
+                    },
+                    {
+                        "id": 27,
+                        "name": "Beric Dondarrion",
+                        "status": 2
+                    },
+                    {
+                        "id": 28,
+                        "name": "Euron Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 29,
+                        "name": "Daario",
+                        "status": 2
+                    },
+                    {
+                        "id": 30,
+                        "name": "Dolorous Edd",
+                        "status": 2
+                    },
+                    {
+                        "id": 31,
+                        "name": "Missandei",
+                        "status": 2
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ghost",
+                        "status": 2
+                    },
+                    {
+                        "id": 33,
+                        "name": "Nymeria",
+                        "status": 2
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "answer": false,
+                        "id": 1
+                    },
+                    {
+                        "answer": 6,
+                        "id": 2
+                    },
+                    {
+                        "answer": "Littlefinger",
+                        "id": 3
+                    }
+                ]
+            }
+        },
+        {
+            "fanName": "Brandon",
+            "id": 13,
+            "answers": {
+                "characters": [
+                    {
+                        "id": 1,
+                        "name": "Jon Snow",
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sansa Stark",
+                        "status": 2
+                    },
+                    {
+                        "id": 3,
+                        "name": "Arya Stark",
+                        "status": 2
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bran Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cersei Lannister",
+                        "status": 3
+                    },
+                    {
+                        "id": 6,
+                        "name": "Jaime Lannister",
+                        "status": 3
+                    },
+                    {
+                        "id": 7,
+                        "name": "Tyrion Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 8,
+                        "name": "Daenerys Targaryen",
+                        "status": 2
+                    },
+                    {
+                        "id": 9,
+                        "name": "Yara Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 10,
+                        "name": "Theon Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 11,
+                        "name": "Melisandre",
+                        "status": 2
+                    },
+                    {
+                        "id": 12,
+                        "name": "Jorah Mormont",
+                        "status": 2
+                    },
+                    {
+                        "id": 13,
+                        "name": "The Hound",
+                        "status": 3
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Mountain",
+                        "status": 3
+                    },
+                    {
+                        "id": 15,
+                        "name": "Samwell Tarley",
+                        "status": 1
+                    },
+                    {
+                        "id": 16,
+                        "name": "Gilly",
+                        "status": 1
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sam (Child)",
+                        "status": 1
+                    },
+                    {
+                        "id": 18,
+                        "name": "Lord Varys",
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "name": "Brienne of Tarth",
+                        "status": 1
+                    },
+                    {
+                        "id": 20,
+                        "name": "Davos Seaworth",
+                        "status": 2
+                    },
+                    {
+                        "id": 21,
+                        "name": "Bronn",
+                        "status": 2
+                    },
+                    {
+                        "id": 22,
+                        "name": "Podrick Payne",
+                        "status": 2
+                    },
+                    {
+                        "id": 23,
+                        "name": "Tormund Giantsbane",
+                        "status": 3
+                    },
+                    {
+                        "id": 24,
+                        "name": "Qyburn",
+                        "status": 2
+                    },
+                    {
+                        "id": 25,
+                        "name": "Grey Worm",
+                        "status": 2
+                    },
+                    {
+                        "id": 26,
+                        "name": "Gendry",
+                        "status": 1
+                    },
+                    {
+                        "id": 27,
+                        "name": "Beric Dondarrion",
+                        "status": 1
+                    },
+                    {
+                        "id": 28,
+                        "name": "Euron Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 29,
+                        "name": "Daario",
+                        "status": 3
+                    },
+                    {
+                        "id": 30,
+                        "name": "Dolorous Edd",
+                        "status": 3
+                    },
+                    {
+                        "id": 31,
+                        "name": "Missandei",
+                        "status": 2
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ghost",
+                        "status": 1
+                    },
+                    {
+                        "id": 33,
+                        "name": "Nymeria",
+                        "status": 1
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "answer": true,
+                        "id": 1
+                    },
+                    {
+                        "answer": 1,
+                        "id": 2
+                    },
+                    {
+                        "answer": 26,
+                        "id": 3
+                    }
+                ]
+            }
+        },
+        {
+            "fanName": "Nicole",
+            "id": 14,
+            "answers": {
+                "characters": [
+                    {
+                        "id": 1,
+                        "name": "Jon Snow",
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sansa Stark",
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "name": "Arya Stark",
+                        "status": 2
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bran Stark",
+                        "status": 3
+                    },
+                    {
+                        "id": 5,
+                        "name": "Cersei Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 6,
+                        "name": "Jaime Lannister",
+                        "status": 2
+                    },
+                    {
+                        "id": 7,
+                        "name": "Tyrion Lannister",
+                        "status": 1
+                    },
+                    {
+                        "id": 8,
+                        "name": "Daenerys Targaryen",
+                        "status": 1
+                    },
+                    {
+                        "id": 9,
+                        "name": "Yara Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 10,
+                        "name": "Theon Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 11,
+                        "name": "Melisandre",
+                        "status": 1
+                    },
+                    {
+                        "id": 12,
+                        "name": "Jorah Mormont",
+                        "status": 2
+                    },
+                    {
+                        "id": 13,
+                        "name": "The Hound",
+                        "status": 3
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Mountain",
+                        "status": 2
+                    },
+                    {
+                        "id": 15,
+                        "name": "Samwell Tarley",
+                        "status": 3
+                    },
+                    {
+                        "id": 16,
+                        "name": "Gilly",
+                        "status": 1
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sam (Child)",
+                        "status": 1
+                    },
+                    {
+                        "id": 18,
+                        "name": "Lord Varys",
+                        "status": 2
+                    },
+                    {
+                        "id": 19,
+                        "name": "Brienne of Tarth",
+                        "status": 1
+                    },
+                    {
+                        "id": 20,
+                        "name": "Davos Seaworth",
+                        "status": 2
+                    },
+                    {
+                        "id": 21,
+                        "name": "Bronn",
+                        "status": 3
+                    },
+                    {
+                        "id": 22,
+                        "name": "Podrick Payne",
+                        "status": 2
+                    },
+                    {
+                        "id": 23,
+                        "name": "Tormund Giantsbane",
+                        "status": 1
+                    },
+                    {
+                        "id": 24,
+                        "name": "Qyburn",
+                        "status": 2
+                    },
+                    {
+                        "id": 25,
+                        "name": "Grey Worm",
+                        "status": 1
+                    },
+                    {
+                        "id": 26,
+                        "name": "Gendry",
+                        "status": 3
+                    },
+                    {
+                        "id": 27,
+                        "name": "Beric Dondarrion",
+                        "status": 2
+                    },
+                    {
+                        "id": 28,
+                        "name": "Euron Greyjoy",
+                        "status": 2
+                    },
+                    {
+                        "id": 29,
+                        "name": "Daario",
+                        "status": 2
+                    },
+                    {
+                        "id": 30,
+                        "name": "Dolorous Edd",
+                        "status": 3
+                    },
+                    {
+                        "id": 31,
+                        "name": "Missandei",
+                        "status": 1
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ghost",
+                        "status": 1
+                    },
+                    {
+                        "id": 33,
+                        "name": "Nymeria",
+                        "status": 1
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "answer": true,
+                        "id": 1
+                    },
+                    {
+                        "answer": 1,
+                        "id": 2
+                    },
+                    {
+                        "answer": 8,
+                        "id": 3
+                    }
+                ]
+            }
+        }
+    ]
+}
